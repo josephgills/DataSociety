@@ -1,5 +1,6 @@
 # DataSociety
 Author: Joe Gills
+
 Date: 3/19/2024
 
 ## Prompt
@@ -16,4 +17,4 @@ Along with the source code, include a README.md file in Markdown format which do
 This repo contains a python notebook that links to a Google Colab envirnoment. The notebook defines several functions that will retrieve temperature data for a given period and lat/lon position. The data is pulled from weather.gov using the api mentioned above.
 
 ## To Run
-Follow the google colab link in the preview of the notebook or use this link https://colab.research.google.com/github/josephgills/DataSociety/blob/main/WeatherGrab.ipynb#scrollTo=uLVEB4X-uiI6&line=14&uniqifier=1. Hit the play button and follow the prompt.
+Follow the google colab link in the preview of the notebook or use this link https://colab.research.google.com/github/josephgills/DataSociety/blob/main/WeatherGrab.ipynb. Hit the play button and follow the prompt. After hitting the play button, you may be prompted to sign into your google account.
